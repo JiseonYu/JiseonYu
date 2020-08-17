@@ -1,16 +1,17 @@
-### Hi there 👋
+### Here I'm Jiseon 👋🏻👩🏻‍💻
 
-<!--
-**JiseonYu/JiseonYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Jiseon! Welcome to my Github🙌🏻🙌🏻. 
+
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ...mobile trivia app game with React-Native
+- 🌱 I’m currently learning ...React-Native
+- 👯 I’m looking to collaborate on ...A mobile app or web app developing 
+- 🤔 I’m looking for help with ...AWS
+- 💬 Ask me about ...Anything! 
+- 📫 How to reach me: ...https://www.linkedin.com/in/jiseonyu/
+- 😄 Pronouns: ...She/her
+- ⚡ Fun fact: ...I love to learn new things, and I embrace my inner nerd.🤓
 -->
