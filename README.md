@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...I love to learn new things, and I embrace my inner nerd.🤓
 -->
 
-Get in touch 
+## Get in touch 
 
 * LinkedIn: https://www.linkedin.com/in/jiseonyu/
 * Facebook: https://www.facebook.com/profile.php?id=100013556883059
