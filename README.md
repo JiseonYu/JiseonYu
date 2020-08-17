@@ -1,4 +1,4 @@
-### Here I'm Jiseon 👋🏻👩🏻‍💻
+### Here I'm Jiseon - @JiseonYu👋🏻👩🏻‍💻
 
 Hi, I'm Jiseon! Welcome to my Github🙌🏻🙌🏻. 
 
@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...She/her
 - ⚡ Fun fact: ...I love to learn new things, and I embrace my inner nerd.🤓
 -->
+
+Get in touch 
+
+* LinkedIn: https://www.linkedin.com/in/jiseonyu/
+* Facebook: https://www.facebook.com/profile.php?id=100013556883059
