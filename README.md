@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 
 * LinkedIn: https://www.linkedin.com/in/jiseonyu/
 * Facebook: https://www.facebook.com/profile.php?id=100013556883059
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JiseonYu)](https://github.com/anuraghazra/github-readme-stats)
