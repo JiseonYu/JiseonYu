@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...https://www.linkedin.com/in/jiseonyu/
 - 😄 Pronouns: ...She/her
 - ⚡ Fun fact: ...I love to learn new things, and I embrace my inner nerd.🤓
--->
 
 ## Get in touch 
 
