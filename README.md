@@ -2,6 +2,7 @@
 
 Hi, I'm Jiseon! Welcome to my Github🙌🏻🙌🏻. 
 
+I'm currently doing my CS at The City College of New York while working on an internship and other projects. I passionate about Progressive Web Apps/Mobile Apps. 
 
 
 Here are some ideas to get you started:
