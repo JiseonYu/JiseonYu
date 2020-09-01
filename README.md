@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...mobile trivia app game with React-Native
 - 🌱 I’m currently learning ...React-Native
 - 👯 I’m looking to collaborate on ...A mobile app or web app developing 
-- 🤔 I’m looking for help with ...AWS
+- 🤔 I’m looking for help with ... mobile app project that I've been working on
 - 💬 Ask me about ...Anything! 
 - 📫 How to reach me: ...https://www.linkedin.com/in/jiseonyu/
 - 😄 Pronouns: ...She/her
