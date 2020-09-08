@@ -1,4 +1,4 @@
-### Here I'm Jiseon - @JiseonYu👋🏻👩🏻‍💻
+### Hey I'm Jiseon - @JiseonYu👋🏻👩🏻‍💻
 
 Hi, I'm Jiseon! Welcome to my Github🙌🏻🙌🏻. 
 
