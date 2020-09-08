@@ -12,10 +12,10 @@ I'm currently doing my CS at The City College of New York while working on an in
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...mobile trivia app game with React-Native
-- 🌱 I’m currently learning ...React-Native
-- 👯 I’m looking to collaborate on ...A mobile app or web app developing 
-- 🤔 I’m looking for help with ... mobile app project that I've been working on
+- 🔭 I’m currently working on ...Recipe web app using React.js and Bootstrap(80% done), and Chat web app using Django REST Framework and React.js
+- 🌱 I’m currently learning ...UX Design 
+- 👯 I’m looking to collaborate on ... Web app developing 
+- 🤔 I’m looking for help with ... Chat app project that I've been working on
 - 💬 Ask me about ...Anything! 
 - 📫 How to reach me: ...https://www.linkedin.com/in/jiseonyu/
 - 😄 Pronouns: ...She/her
