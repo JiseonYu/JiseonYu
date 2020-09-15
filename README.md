@@ -1,6 +1,6 @@
 ### Hey I'm Jiseon - @JiseonYu👋🏻👩🏻‍💻
 
-Hi, I'm Jiseon! Welcome to my Github🙌🏻🙌🏻. 
+Welcome to my Github🙌🏻🙌🏻. 
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/jiseonyu/"><img height="30" src="https://github.com/JiseonYu/JiseonYu/blob/master/Images/linkedin.png"></a>&nbsp;&nbsp;
