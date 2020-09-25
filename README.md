@@ -12,7 +12,10 @@ I'm currently doing my CS at The City College of New York while working on an in
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...<strong>Recipe web app</strong> using React.js and Bootstrap, and <strong>Chat web app</strong> using Node.js+Socket.io and React.js + Bootstrap
+- 🔭 I’m currently working on ...
+  - <strong>Recipe web app</strong> using React.js and Bootstrap
+  - <strong>Chat web app</strong> using Express.js+Node.js+Socket.io and React.js + Bootstrap
+  - <strong>Trivia mobile app</strong> using React Native
 - 🌱 I’m currently learning ...AWS && UX Design 
 - 👯 I’m looking to collaborate on ... Web app developing 
 - 🤔 I’m looking for help with ... Chat app project that I've been working on
