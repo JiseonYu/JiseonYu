@@ -13,8 +13,7 @@ I'm currently doing my CS at The City College of New York while working on an in
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-  - <strong>Recipe web app</strong> using React.js and Bootstrap
-  - <strong>Chat web app</strong> using Express.js+Node.js+Socket.io and React.js + Bootstrap
+  - <strong>Like Zoom meeting</strong> using React.js&Bootstrap / Express.js&Node.js&Socket.io
   - <strong>Trivia mobile app</strong> using React Native
   
 - 🌱 I’m currently learning ...AWS && UX Design 
