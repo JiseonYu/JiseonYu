@@ -3,8 +3,9 @@
 Welcome to my Github🙌🏻🙌🏻. 
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/jiseonyu/"><img height="30" src="https://github.com/JiseonYu/JiseonYu/blob/master/Images/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100013556883059"><img height="30" src="https://github.com/JiseonYu/JiseonYu/blob/master/Images/facebook.png"></a>
+  <a href="http://www.jiseonyu.com/"><img height="30" src="https://github.com/JiseonYu/JiseonYu/blob/master/Images/home.png"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jiseonyu/"><img height="30" src="https://github.com/JiseonYu/JiseonYu/blob/master/Images/linkedin.png"></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/profile.php?id=100013556883059"><img height="30" src="https://github.com/JiseonYu/JiseonYu/blob/master/Images/facebook.png"></a>
 </p>
 
 I'm currently doing my CS at The City College of New York while working on an internship and other projects. I passionate about Progressive Web Apps/Mobile Apps. 
@@ -13,8 +14,7 @@ I'm currently doing my CS at The City College of New York while working on an in
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-  - <strong>Like Zoom meeting</strong> using React.js&Bootstrap / Express.js&Node.js&Socket.io
-  - <strong>Trivia mobile app</strong> using React Native
+  - <strong>iOS Application</strong> with Swift 
   
 - 🌱 I’m currently learning ...AWS && UX Design 
 - 👯 I’m looking to collaborate on ... Web app developing 
